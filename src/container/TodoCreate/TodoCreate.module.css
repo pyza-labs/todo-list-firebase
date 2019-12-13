@@ -1,0 +1,19 @@
+.input {
+  outline: none;
+  color: red;
+}
+.todoItem {
+  margin: 4px;
+  display: flex;
+  cursor: text;
+}
+.toolTip {
+  margin-left: 24px;
+}
+.todoButtons {
+  display: flex;
+  margin-top: 8px;
+}
+.button {
+  margin-right: 8px;
+}

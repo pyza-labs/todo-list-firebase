@@ -1,0 +1,29 @@
+.Home {
+  margin: 100px auto auto auto;
+  position: relative;
+  z-index: 50;
+}
+
+.addTodo {
+  display: flex;
+  margin-left: 20px;
+  cursor: pointer;
+  color: rgb(156, 140, 140);
+}
+
+.addTodo svg {
+  margin-top: 3px;
+  margin-right: 6px;
+}
+
+.addTodo:hover {
+  color: rgb(132, 150, 199);
+}
+
+.todoButtons {
+  display: flex;
+  margin-top: 8px;
+}
+.button {
+  margin-right: 8px;
+}
